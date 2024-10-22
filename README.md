@@ -1,5 +1,7 @@
 # minesweeper
 
+C++/Qt implementation of minesweeper
+
 ![](img/screenshot_1.png)
 
 ![](img/screenshot_2.png)
