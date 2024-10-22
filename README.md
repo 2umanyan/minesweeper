@@ -1,8 +1,8 @@
 # minesweeper
 
-![](img/screenshot_1)
+![](img/screenshot_1.png)
 
-![](img/screenshot_2)
+![](img/screenshot_2.png)
 
 ## Build Instructions (MacOS/Linux)
 
