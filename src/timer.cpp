@@ -1,7 +1,8 @@
 #include "timer.h"
 
 Timer::Timer(QWidget* parent)
-    : QLCDNumber{ parent }, m_timer{ parent }
+    : QLCDNumber{ parent }
+    , m_seconds(0)
 {
     setDigitCount(4);
     setStyleSheet("QLCDNumber { background-color: black; } ");

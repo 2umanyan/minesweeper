@@ -15,7 +15,7 @@ public:
     int flagsCount();
 
 private:
-    int m_flagsCount{ 0 };
+    int m_flagsCount;
 
 public slots:
     void onFlagsCountChanged();

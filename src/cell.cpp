@@ -2,6 +2,10 @@
 
 Cell::Cell(QWidget* parent)
     : QPushButton(parent)
+    , m_hasMine(false)
+    , m_hasFlag(false)
+    , m_digit(0)
+    , m_state(hidden)
 {
     // style
     setFixedSize(30, 30);

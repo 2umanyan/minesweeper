@@ -3,6 +3,7 @@
 
 FlagCounter::FlagCounter(QWidget* parent)
     : QLCDNumber(parent)
+    , m_flagsCount(0)
 {
     setDigitCount(3);
     setStyleSheet("QLCDNumber { background-color: black; }");

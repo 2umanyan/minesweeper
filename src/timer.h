@@ -21,8 +21,9 @@ public:
     void stop();
 
 private:
-    int m_seconds{ 0 };
+    QLCDNumber m_LCDNumber;
     QTimer m_timer;
+    int m_seconds;
 };
 
 #endif

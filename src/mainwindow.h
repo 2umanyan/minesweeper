@@ -14,8 +14,6 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
 
-    ~MainWindow();
-
     void newGame(int numRows, int numCols, int numMines);
 
     void setEasyDifficulty();

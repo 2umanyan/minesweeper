@@ -1,0 +1,8 @@
+/Users/arturtumanan/Desktop/minesweeper/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/minesweeper.dir
+/Users/arturtumanan/Desktop/minesweeper/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/arturtumanan/Desktop/minesweeper/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/arturtumanan/Desktop/minesweeper/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/arturtumanan/Desktop/minesweeper/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/install.dir
+/Users/arturtumanan/Desktop/minesweeper/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/arturtumanan/Desktop/minesweeper/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/arturtumanan/Desktop/minesweeper/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/minesweeper_autogen.dir

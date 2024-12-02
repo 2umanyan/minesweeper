@@ -10,6 +10,8 @@ MineField::MineField(QWidget* parent, int numRows, int numCols, int numMines)
     : QFrame(parent)
     , m_cells(numRows)
     , m_numMines{ numMines }
+    , m_flaggedMinesCount(0)
+    , m_revealedCells(0)
 {
     for (size_t i{ 0 }; i < numRows; ++i)
         m_cells[i].resize(numCols);

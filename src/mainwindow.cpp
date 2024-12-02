@@ -42,14 +42,6 @@ MainWindow::MainWindow(QWidget *parent)
     setupToolBarMenu();
 }
 
-MainWindow::~MainWindow()
-{
-    delete m_minefield;
-    delete m_mainFrameLayout;
-    delete m_flagCounter;
-    delete m_timer;
-}
-
 void MainWindow::newGame(int numRows, int numCols, int numMines)
 {
     delete m_minefield;

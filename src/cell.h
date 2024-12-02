@@ -46,10 +46,10 @@ public:
     void mousePressEvent(QMouseEvent *event) override;
 
 private:
-    bool m_hasMine{ false };
-    bool m_hasFlag{ false };
-    int m_digit{ 0 };
-    States m_state{ hidden };
+    bool m_hasMine;
+    bool m_hasFlag;
+    int m_digit;
+    States m_state;
     int m_row;
     int m_col;
 

@@ -23,8 +23,8 @@ public:
 private:
     std::vector<std::vector<Cell*>> m_cells;
     int m_numMines;
-    int m_flaggedMinesCount{ 0 };
-    int m_revealedCells{ 0 };
+    int m_flaggedMinesCount;
+    int m_revealedCells;
 
 public slots:
     void onZeroDigit(int row, int col);
