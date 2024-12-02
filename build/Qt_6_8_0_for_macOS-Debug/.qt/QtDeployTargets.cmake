@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_minesweeper_FILE /Users/arturtumanan/Desktop/minesweeper/build/Qt_6_8_0_for_macOS-Debug/minesweeper.app/Contents/MacOS/minesweeper)
-set(__QT_DEPLOY_TARGET_minesweeper_TYPE EXECUTABLE)
